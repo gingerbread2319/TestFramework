@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="43725" started-at="2018-12-07T11:02:41 CST" finished-at="2018-12-07T11:03:25 CST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="43725" started-at="2018-12-07T11:02:41 CST" finished-at="2018-12-07T11:03:25 CST">
+      <class name="test.TestScripts.KryptonGuruScripts.TC02_KryptonGuruTest">
+        <test-method status="PASS" signature="TC02_KryptonGuruTest()" name="TC02_KryptonGuruTest" duration-ms="43644" started-at="2018-12-07T11:02:41 CST" finished-at="2018-12-07T11:03:25 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_KryptonGuruTest -->
+      </class> <!-- test.TestScripts.KryptonGuruScripts.TC02_KryptonGuruTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+main\Framework\tests\BaseTest.class
+test\TestSuite\SampleTestSuite.class
+test\TestScripts\TC01_SearchGoogle.class
+test\Utils\extentReportsUtil.class
+test\PageObject\googlePage.class
+main\Framework\page\BasePage.class
+test\PageObject\KryptonGuru\kryptonGuruLoginPage.class
+test\TestScripts\KryptonGuruScripts\TC02_KryptonGuruTest.class
+test\TestRunner.class

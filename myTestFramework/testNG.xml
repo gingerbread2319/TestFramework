@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="N11 Test Suite" >
+    <listeners>
+        <listener class-name="test.Utils.MyTestResultListener"/>
+        <!--<listener class-name="test.Utils.AnnotationTransformer"/>-->
+    </listeners>
+ 
+    <test name="GoogleTest">
+        <classes>
+            <class name="test.TestScripts.TC01_SearchGoogle"/>
+        </classes>
+    </test>
+</suite>
